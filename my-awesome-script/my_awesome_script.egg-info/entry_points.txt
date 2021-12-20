@@ -1,0 +1,3 @@
+[console_scripts]
+my-awesome-script = my_awesome_script.hw_script:main
+
